@@ -9,7 +9,7 @@ function main() {
 		    	<style>
 	            	.Rrrrr { font: italic 28px serif; fill: red; }
 	          	</style>
-		        <text x="0" y="25" class="Rrrrr">${i}</text>
+		        <text x="-10" y="25" class="Rrrrr">${i}</text>
 		    </svg>
 		    `
 
