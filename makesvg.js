@@ -7,7 +7,7 @@ function main() {
 		var data = `
 	        <svg viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
 		    	<style>
-	            	.Rrrrr { font: italic 24px serif; fill: red; }
+	            	.Rrrrr { font: italic 18px serif; fill: red; }
 	          	</style>
 		        <text x="0" y="25" class="Rrrrr">${i}</text>
 		    </svg>
