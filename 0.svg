@@ -4,9 +4,9 @@
 		                    .small { font: italic 13px sans-serif; }
 	            .heavy { font: bold 30px sans-serif; }
 
-	            .Rrrrr { font: italic 40px serif; fill: red; }
+	            .Rrrrr { font: italic 32px serif; fill: red; }
 	          </style>
 
-		                  <text x="0" y="50" class="Rrrrr">0</text>
+		                  <text x="50" y="40" class="Rrrrr">0</text>
 		                </svg>
 		                
