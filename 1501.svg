@@ -3,6 +3,6 @@
 		    	<style>
 	            	.Rrrrr { font: italic 48px serif; fill: red; }
 	          	</style>
-		        <text x="-10" y="25" class="Rrrrr">1501</text>
+		        <text x="25" y="25" class="Rrrrr">1501</text>
 		    </svg>
 		    
