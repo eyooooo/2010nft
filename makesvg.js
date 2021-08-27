@@ -13,7 +13,7 @@ function main() {
 	            .Rrrrr { font: italic 32px serif; fill: red; }
 	          </style>
 
-		                  <text x="50" y="40" class="Rrrrr">${i}</text>
+		                  <text x="0" y="25" class="Rrrrr">${i}</text>
 		                </svg>
 		                `
 
