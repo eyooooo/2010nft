@@ -1,0 +1,12 @@
+
+	        <svg viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+		                  <style>
+		                    .small { font: italic 13px sans-serif; }
+	            .heavy { font: bold 30px sans-serif; }
+
+	            .Rrrrr { font: italic 40px serif; fill: red; }
+	          </style>
+
+		                  <text x="65" y="55" class="Rrrrr">0</text>
+		                </svg>
+		                
