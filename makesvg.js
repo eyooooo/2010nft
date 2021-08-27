@@ -6,16 +6,12 @@ function main() {
 	for (let i=0; i < 2010; i++) {
 		var data = `
 	        <svg viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
-		                  <style>
-		                    .small { font: italic 13px sans-serif; }
-	            .heavy { font: bold 30px sans-serif; }
-
-	            .Rrrrr { font: italic 32px serif; fill: red; }
-	          </style>
-
-		                  <text x="0" y="25" class="Rrrrr">${i}</text>
-		                </svg>
-		                `
+		    	<style>
+	            	.Rrrrr { font: italic 28px serif; fill: red; }
+	          	</style>
+		        <text x="0" y="25" class="Rrrrr">${i}</text>
+		    </svg>
+		    `
 
 		const path = `./${i}.svg`
 		console.log(path)
